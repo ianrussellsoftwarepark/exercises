@@ -31,6 +31,9 @@ You can contribute your solution by doing the following steps:
    - Exercise 2.1: [F#](https://github.com/danielweller-swp/TransportTycoon/tree/master/episode-2.1)
    - Exercise 2.2: [F#](https://github.com/danielweller-swp/TransportTycoon/tree/master/episode-2.2)
 
+5. [Ian Russell](https://github.com/ianrussellsoftwarepark)
+   - Exercise 2.1 & 2.2: [F#](https://github.com/ianrussellsoftwarepark/TransportTycoon2)
+
 ## Season 1
 
 1. [Ian Russell](https://github.com/ijrussell)
